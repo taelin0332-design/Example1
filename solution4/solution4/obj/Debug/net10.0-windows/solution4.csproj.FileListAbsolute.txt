@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\solution4\solution4\obj\Debug\net10.0-windows\solution4.Form1.resources
+C:\Users\Administrator\source\repos\solution4\solution4\obj\Debug\net10.0-windows\solution4.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\solution4\solution4\obj\Debug\net10.0-windows\solution4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\solution4\solution4\obj\Debug\net10.0-windows\solution4.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\solution4\solution4\obj\Debug\net10.0-windows\solution4.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\solution4\solution4\obj\Debug\net10.0-windows\solution4.csproj.CoreCompileInputs.cache

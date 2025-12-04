@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\solution5\solution5\bin\Debug\net10.0-windows\solution5.exe
+C:\Users\Administrator\source\repos\solution5\solution5\bin\Debug\net10.0-windows\solution5.deps.json
+C:\Users\Administrator\source\repos\solution5\solution5\bin\Debug\net10.0-windows\solution5.runtimeconfig.json
+C:\Users\Administrator\source\repos\solution5\solution5\bin\Debug\net10.0-windows\solution5.dll
+C:\Users\Administrator\source\repos\solution5\solution5\bin\Debug\net10.0-windows\solution5.pdb
+C:\Users\Administrator\source\repos\solution5\solution5\obj\Debug\net10.0-windows\solution5.Form1.resources
+C:\Users\Administrator\source\repos\solution5\solution5\obj\Debug\net10.0-windows\solution5.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\solution5\solution5\obj\Debug\net10.0-windows\solution5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\solution5\solution5\obj\Debug\net10.0-windows\solution5.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\solution5\solution5\obj\Debug\net10.0-windows\solution5.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\solution5\solution5\obj\Debug\net10.0-windows\solution5.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\solution5\solution5\obj\Debug\net10.0-windows\solution5.dll
+C:\Users\Administrator\source\repos\solution5\solution5\obj\Debug\net10.0-windows\refint\solution5.dll
+C:\Users\Administrator\source\repos\solution5\solution5\obj\Debug\net10.0-windows\solution5.pdb
+C:\Users\Administrator\source\repos\solution5\solution5\obj\Debug\net10.0-windows\solution5.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\solution5\solution5\obj\Debug\net10.0-windows\ref\solution5.dll
